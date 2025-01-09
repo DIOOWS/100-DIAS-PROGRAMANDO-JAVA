@@ -7,16 +7,16 @@
 
 | Dia   | Desafio                                                                 |
 |-------|-------------------------------------------------------------------------|
-| 1     | Criar uma calculadora simples (somar, subtrair, multiplicar, dividir) . |  >>> CONCLUIDO<<<
+| 1     | Criar uma calculadora simples (somar, subtrair, multiplicar, dividir) . >>> CONCLUIDO<<<|  
 | 2     | Programa de conversão de unidades (kg → libras, metros → quilômetros). |
 | 3     | Criar um programa de cálculo de média de notas.                         |
 | 4     | Sistema de login com verificação de usuário e senha.                    |
 | 5     | Simulador de dados de RPG (rolagem de dados, ex.: D20, D6).             |
-| 6     | Gerador de senhas aleatórias.                                           |  >>>CONCLUIDO<<<
-| 7     | Jogo de adivinhar números (número aleatório gerado pelo computador).    |  >>>CONCLUIDO<<<
-| 8     | Programa para calcular IMC e classificar o resultado.                  |   >>>CONCLUIDO<<<
+| 6     | Gerador de senhas aleatórias.                                           >>> CONCLUIDO<<<|  
+| 7     | Jogo de adivinhar números (número aleatório gerado pelo computador).    >>> CONCLUIDO<<<|  
+| 8     | Programa para calcular IMC e classificar o resultado.                  >>> CONCLUIDO<<<|   
 | 9     | Cronômetro simples (contagem regressiva de segundos).                   |
-| 10    | Conversor de temperatura (Celsius ↔ Fahrenheit).                        |  >>>CONCLUIDO<<<
+| 10    | Conversor de temperatura (Celsius ↔ Fahrenheit).                        >>> CONCLUIDO<<<|  
 | 11    | Sistema de cadastro de usuários em um sistema simples.                 |
 | 12    | Implementação de uma agenda simples (adicionar e listar compromissos). |
 | 13    | Sistema de controle de estoque (adicionar, remover e listar produtos). |
