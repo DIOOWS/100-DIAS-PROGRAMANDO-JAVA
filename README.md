@@ -9,7 +9,7 @@
 |-------|-------------------------------------------------------------------------|
 | 1     | Criar uma calculadora simples (somar, subtrair, multiplicar, dividir) . >>> CONCLUIDO<<<|  
 | 2     | Programa de conversão de unidades (kg → libras, metros → quilômetros). >>> CONCLUIDO<<<|
-| 3     | Criar um programa de cálculo de média de notas.                         |
+| 3     | Criar um programa de cálculo de média de notas.                         >>> CONCLUIDO<<<|
 | 4     | Sistema de login com verificação de usuário e senha.                    |
 | 5     | Simulador de dados de RPG (rolagem de dados, ex.: D20, D6).             |
 | 6     | Gerador de senhas aleatórias.                                           >>> CONCLUIDO<<<|  
