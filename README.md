@@ -17,7 +17,7 @@
 | 8     | Programa para calcular IMC e classificar o resultado.                   >>> CONCLUIDO<<<|   
 | 9     | Cronômetro simples (contagem regressiva de segundos).                   >>> CONCLUIDO<<<|
 | 10    | Conversor de temperatura (Celsius ↔ Fahrenheit).                        >>> CONCLUIDO<<<|  
-| 11    | Sistema de cadastro de usuários em um sistema simples.                 |
+| 11    | Sistema de cadastro de usuários em um sistema simples.                  >>> CONCLUIDO<<<|
 | 12    | Implementação de uma agenda simples (adicionar e listar compromissos). |
 | 13    | Sistema de controle de estoque (adicionar, remover e listar produtos). |
 | 14    | Programa para calcular o fatorial de um número.                         |
