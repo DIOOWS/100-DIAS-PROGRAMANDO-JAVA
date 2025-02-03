@@ -18,15 +18,15 @@
 | 9     | Cronômetro simples (contagem regressiva de segundos).                   >>> CONCLUIDO<<<|
 | 10    | Conversor de temperatura (Celsius ↔ Fahrenheit).                        >>> CONCLUIDO<<<|  
 | 11    | Sistema de cadastro de usuários em um sistema simples.                  >>> CONCLUIDO<<<|
-| 12    | Implementação de uma agenda simples (adicionar e listar compromissos). |
-| 13    | Sistema de controle de estoque (adicionar, remover e listar produtos). |
-| 14    | Programa para calcular o fatorial de um número.                         |
+| 12    | Implementação de uma agenda simples (adicionar e listar compromissos). >>> CONCLUIDO<<<|
+| 13    | Sistema de controle de estoque (adicionar, remover e listar produtos). >>> CONCLUIDO<<<|
+| 14    | Programa para calcular o fatorial de um número.                         >>> CONCLUIDO<<<|
 | 15    | Jogo simples de "pedra, papel, tesoura".                               |
 | 16    | Programa para contar caracteres e palavras em uma frase.               |
 | 17    | Simulador de caixa eletrônico (saques e extrato).                       |
 | 18    | Criar um sistema de notas (aprovação ou reprovação com base na média). |
 | 19    | Calculadora de juros compostos.                                         |
-| 20    | Controle de tarefas (adicionar, listar e excluir tarefas).             |
+| 20    | Controle de tarefas (adicionar, listar e excluir tarefas).             >>> CONCLUIDO<<<|
 | 21    | Programa para inverter uma string.                                     |
 | 22    | Contador de palavras em uma string.                                    |
 | 23    | Programa de busca de um número dentro de um array.                      |
